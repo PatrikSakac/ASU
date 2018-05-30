@@ -1,0 +1,14 @@
+D:\ASUC\ASUC\ASUC\bin\Debug\ASUC.exe.config
+D:\ASUC\ASUC\ASUC\bin\Debug\ASUC.exe
+D:\ASUC\ASUC\ASUC\bin\Debug\ASUC.pdb
+D:\ASUC\ASUC\ASUC\obj\Debug\ASUC.csprojResolveAssemblyReference.cache
+D:\ASUC\ASUC\ASUC\obj\Debug\ASUC.exe
+D:\ASUC\ASUC\ASUC\obj\Debug\ASUC.pdb
+D:\ASUC\ASUC\bin\Debug\ASUC.exe.config
+D:\ASUC\ASUC\bin\Debug\ASUC.exe
+D:\ASUC\ASUC\bin\Debug\ASUC.pdb
+D:\ASUC\ASUC\obj\Debug\ASUC.exe
+D:\ASUC\ASUC\obj\Debug\ASUC.pdb
+D:\ASUC\ASUC\obj\Debug\ASUC.csprojResolveAssemblyReference.cache
+D:\ASUC\ASUC\bin\Debug\C5.dll
+D:\ASUC\ASUC\bin\Debug\C5.xml

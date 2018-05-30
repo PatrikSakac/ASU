@@ -1,0 +1,3 @@
+D:\ASU\ASU\bin\Debug\ASUC.exe.config
+D:\ASU\ASU\obj\Debug\ASUC.exe
+D:\ASU\ASU\obj\Debug\ASUC.pdb
